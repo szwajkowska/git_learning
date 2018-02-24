@@ -13,6 +13,7 @@ public class aaa {
         System.out.println("change");
         System.out.println("change2");
         copyTo();
+        System.out.println("change on newImage");
     }
 
     public static void copyTo(){
