@@ -11,6 +11,7 @@ public class aaa {
 
     public static void main(String[] args) {
         System.out.println("change");
+        System.out.println("change2");
         copyTo();
     }
 
