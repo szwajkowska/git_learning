@@ -11,6 +11,7 @@ public class aaa {
 
     public static void main(String[] args) {
         System.out.println(" first change on master");
+        System.out.println("first change on newImage");
     }
 
     public static void copyTo(){
